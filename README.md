@@ -1,2 +1,3 @@
 # bbs-prototyping
-Created with CodeSandbox
+
+BBS prototyping
